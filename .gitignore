@@ -36,7 +36,7 @@ Thumbs.db
 *.env
 
 # Generated submission files
-submission/*.csv
+submission/*.csv 
 
 # Generated figures
 reports/figures/*.png
