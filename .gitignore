@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+data/*.csv
+data/*.zip
+data/*.parquet
+
+# Model artifacts
+models/*.pkl
+models/*.joblib
+models/*.json
+models/*.ubj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env
+
+# Generated submission files
+submission/*.csv
+
+# Generated figures
+reports/figures/*.png
+reports/figures/*.jpg
